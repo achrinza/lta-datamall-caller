@@ -20,3 +20,12 @@ steps:
     npm run build
     npm run semantic-release
   displayName: 'npm install and build'
+
+- script: |
+    npm run build
+    npm run precommit
+  displayName: 'gulp build and format Typescript files'
+
+- script: |
+    npm run semantic-release
+  displayName: 'semantic-release'
