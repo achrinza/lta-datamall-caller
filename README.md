@@ -6,7 +6,7 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 ![](https://img.shields.io/github/license/achrinza/lta-datamall-caller.svg?style=flat) 
 ![](https://img.shields.io/david/achrinza/lta-datamall-caller.svg?style=flat) ![](https://img.shields.io/npm/types/lta-datamall-caller.svg?style=flat)
-[![Coverage Status](https://coveralls.io/repos/github/achrinza/lta-datamall-caller/badge.svg?branch=master)](https://coveralls.io/github/achrinza/lta-datamall-caller?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/achrinza/lta-datamall-caller/badge.svg?branch=master)](https://coveralls.io/github/achrinza/lta-datamall-caller?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/achrinza/lta-datamall-caller.svg)](https://greenkeeper.io/)
 
 
 ![](https://img.shields.io/node/v/lta-datamall/latest.svg?style=flat)
